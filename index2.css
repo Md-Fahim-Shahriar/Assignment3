@@ -1,0 +1,50 @@
+/* body {
+    border: 3px solid;
+    border-color: aliceblue;
+    background-image: url(bgi.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 100px;
+}
+
+#col2{
+    padding: 50px;
+    margin-top: 5px;
+    height: 500px;
+    width: 100px;
+}
+
+#col1{
+    padding: 100px;
+    margin-top: 100px;
+    height: 500px;
+    width: 100px;
+    
+} */
+
+body {
+    margin:0;
+    margin-left: 207px;
+}
+
+.container {
+    border: 3px solid;
+    border-color: aliceblue;
+    background-image: url(bgi.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 100px;
+}
+
+.row {
+    text-align: center;
+}
+
+#col2 form {
+    border: 1px solid;
+    border-color: azure;
+    padding: 20px;
+    margin: 100px; /* Add some padding to the form for better aesthetics */
+} 
+
+/* Add additional styling for the form elements as needed */
